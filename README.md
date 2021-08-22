@@ -20,7 +20,7 @@ The results for the 2017 stock tickers are displayed below:
                                                                                                                                                                                                                  ![Run Time of VBA Stock Analysis for 2018](Resources/2018 Stock Analysis Run Time.png)
 
   The run time for the refactored script in 2017 was... The image for the run time is dispalyed below:
-                                                                                                                                                                                                                ![Run Time of Refactored Stock Analysis for 2017]/(Resources/2017 Refactored stock analysis.png)
+                                                                                                                                                                                                                ![Run Time of Refactored Stock Analysis for 2017](Resources/2017 Refactored stock analysis.png)
 
   The run time for the refactored script in 2018 was... The image for the run time is dispalyed below:
                                                                                                                                                                                                                 ![Run Time of Refactored VBA Stock Analysis for 2018](Resources/2018 Refactored Stock Analysis.png)
