@@ -2,7 +2,7 @@
 
 ##Overview of Project:
 
-  The purpose of this analysis was to determine the total Volume and Percentage Return of different ticker stocks in the years 2017 and 2018 using VBA macros in Excel. The results were determined with oe set of code, and then with refactored code, with comparisons drawn between the run time of the intital and refactored code. The positive and negative returns were highlighted afterwards with the utilization of macros to display results in a clearer format. 
+  The purpose of this analysis was to determine the total Volume and Percentage Return of different ticker stocks in the years 2017 and 2018 using VBA macros in Excel. The results were determined with one set of code, and then with refactored code, with comparisons drawn between the run time of the intital and refactored code. The positive and negative returns were highlighted afterwards with the utilization of macros to display results in a clearer format. 
 
 ##Results:
 
@@ -15,7 +15,7 @@ The results for the 2017 stock tickers are displayed below:
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         ![Results of VBA Stock Analysis for 2018](Resources/Refactored_Stock_Analysis_2018.png)
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
-  The execution times for the refactored script were lower than they were for the initial script. The initial script run time for 2017 was.... The image of the run time is displayed below: 
+  The execution times for the initial script were higher than they were for the refactored script. The initial script run time for 2017 was.... The image of the run time is displayed below: 
                     
    ![Run Time of VBA Stock Analysis for 2017](Resources/Stock_Analysis_Run_Time_2017.png)                                                                                                                                                                                                                                                              
 
@@ -24,12 +24,12 @@ The results for the 2017 stock tickers are displayed below:
 
   
   
-  The run time for the refactored script in 2017 was... The image for the run time is dispalyed below:
+  The run time for the refactored script in 2017 was... The image for the run time is displayed below:
                                                                                                                                                                                                                                                                                                                                                                                                     ![Results of VBA Stock Analysis for 2017](Resources/VBA_Challenge_2017.png)
 
   
   
-  The run time for the refactored script in 2018 was... The image for the run time is dispalyed below:
+  The run time for the refactored script in 2018 was... The image for the run time is displayed below:
                                
    
    
@@ -38,5 +38,5 @@ The results for the 2017 stock tickers are displayed below:
 
 ##Summary:
 
- The advantage of refactoring the code is that allows one to conduct the analysis using a lot less code. The negative aspect of refactoring the code is that one has to spend time integrating code to make the naalysis faster when already working code exists. Integration of the code for refactoring is not always intuitive and can still take a lot of time, which can occasionallly defeat the purpose of refactoring in the first place. The advantage of refactoring the code was that it allowed one to do the same analysis with a lot less code, and run the analysis at a faster speed.
+ The advantage of refactoring the code is that allows one to conduct the analysis using a lot less code. The negative aspect of refactoring the code is that one has to spend time integrating code to make the analysis faster when already working code exists. Integration of the code for refactoring is not always intuitive and can still take a lot of time, which can occasionally defeat the purpose of refactoring in the first place. The advantage of refactoring the code was that it allowed one to do the same analysis with a lot less code, and run the analysis at a faster speed.
  
