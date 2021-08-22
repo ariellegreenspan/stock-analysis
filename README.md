@@ -8,16 +8,16 @@
 
   The stocks performed much better in 2017, seeing positive returns with all tickers except for TERP, which had a negative return of 7.2%. Some of the stock tickers were highly successful, gaining over 100% return. These tickers included DQ, ENPH, FSLR, and SEDG, which had returns of 199.4%, 129.5%, 101.3%, and 184.5% respectively. The total volume.....
 The results for the 2017 stock tickers are displayed below:
-                                                                                                                                                                                                                                                                                                                                                                                                    ![Results of VBA Stock Analysis for 2018](Resources/2017_Refactored Stock_Analysis.png)
+                                                                                                                                                                                                                                                                                                                                                                                                    ![Results of VBA Stock Analysis for 2017](Resources/Refactored Stock_Analysis_2017.png)
 
   
   In 2018, meanwhile, the results for the stock tickers were very disappointing. All stocks had negative returns. The results for the year 2018 are displayed below:
-                                                                                                                                                                                                                                                                                                                                                                                                    ![Results of VBA Stock Analysis for 2018](Resources/2018_Refactored Stock_Analysis.png)
+                                                                                                                                                                                                                                                                                                                                                                                                    ![Results of VBA Stock Analysis for 2018](Resources/Refactored Stock_Analysis_2018.png)
               
-  The execution times for the refactored script were lower than they were for the initial script. The initial script run time for 2017 was.... The image of the run time is displayed below: ![Run Time of VBA Stock Analysis for 2017](Resources/2017_Stock_Analysis_Run_Time.png)
+  The execution times for the refactored script were lower than they were for the initial script. The initial script run time for 2017 was.... The image of the run time is displayed below: ![Run Time of VBA Stock Analysis for 2017](Resources/Stock Analysis_Run_Time_2017.png)
 
   The run time for the initial script in 2018 was.... The image for the run time is displayed below:
-                                                                                                                                                                                                                 ![Run Time of VBA Stock Analysis for 2018](Resources/2018_Stock Analysis_Run_Time.png)
+                                                                                                                                                                                                                 ![Run Time of VBA Stock Analysis for 2018](Resources/Stock Analysis_Run_Time_2018.png)
 
   The run time for the refactored script in 2017 was... The image for the run time is dispalyed below:
                                                                                                                                                                                                                                                                                                                                                                                                     ![Results of VBA Stock Analysis for 2017](Resources/VBA_Challenge_2017.png)
@@ -31,5 +31,9 @@ The results for the 2017 stock tickers are displayed below:
 
  The advantage of refactoring the code is that allows one to conduct the analysis using a lot less code. The negative aspect of refactoring the code is that one has to spend time integrating code to make the naalysis faster when already working code exists. Integration of the code for refactoring is not always intuitive and can still take a lot of time, which can occasionallly defeat the purpose of refactoring in the first place. The advantage of refactoring the code was that it allowed one to do the same analysis with a lot less code, and run the analysis at a faster speed.
  
+ 
+
+
+
  
  
