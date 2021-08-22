@@ -13,8 +13,7 @@ The results for the 2017 stock tickers are displayed below:
   In 2018, meanwhile, the results for the stock tickers were very disappointing. All stocks had negative returns. The results for the year 2018 are displayed below:
                                                                                                                                                                                                                                                                                                                                                                                                     ![Results of VBA Stock Analysis for 2018](Resources/VBA_Challenge_2018.png)
               
-  The execution times for the refactored script were lower than they were for the initial script. The initial script run time for 2017 was.... The image of the run time is displayed below: 
-                                                                                                                                                                                                                 ![Run Time of VBA Stock Analysis for 2017](Resources/2017 Stock Analysis Run Time.png)
+  The execution times for the refactored script were lower than they were for the initial script. The initial script run time for 2017 was.... The image of the run time is displayed below: ![Run Time of VBA Stock Analysis for 2017](Resources/2017_Stock_Analysis_Run_Time.png)
 
   The run time for the initial script in 2018 was.... The image for the run time is displayed below:
                                                                                                                                                                                                                  ![Run Time of VBA Stock Analysis for 2018](Resources/2018_Stock_Analysis_Run_Time.png)
