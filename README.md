@@ -28,7 +28,10 @@ The results for the 2017 stock tickers are displayed below:
 ##Summary:
 
  The advantage of refactoring the code is that allows one to conduct the analysis using a lot less code. The negative aspect of refactoring the code is that one has to spend time integrating code to make the naalysis faster when already working code exists. Integration of the code for refactoring is not always intuitive and can still take a lot of time, which can occasionallly defeat the purpose of refactoring in the first place. The advantage of refactoring the code was that it allowed one to do the same analysis with a lot less code, and run the analysis at a faster speed.
-
+ 
+ 
+ 
+![Outcomes](Resources/2017 Stock Analysis Run Time.png)
 
 
 
